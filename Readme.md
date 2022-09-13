@@ -3,7 +3,7 @@
 </p>
 
 -------
-> Este projeto foi desenvolvido gracas a DIO. (Digital Innovation One), que nos proporcionou uma semana front-end. Neste projeto foi desenvolvido um WebApp com o tema de stranger things, os objetivos era aprender mais sobre html, css e javascript.
+> Este projeto foi desenvolvido graças a DIO. (Digital Innovation One), que nos proporcionou uma semana front-end. Neste projeto foi desenvolvido um WebApp com o tema de stranger things, os objetivos era aprender mais sobre html, css e javascript.
 
 ## 🎃 O que é o Mundo invertido?
 
