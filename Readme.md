@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="300" src="https://joaooowdev.github.io/mundoinvertido/assets/images/banner/logo.svg">
+    <img width="300" src="https://joaooowdev.github.io/MundoInvertido/assets/images/banner/logo.svg">
 </p>
 
 -------
