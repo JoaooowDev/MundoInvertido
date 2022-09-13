@@ -90,4 +90,4 @@ O Mundo Invertido parece uma cópia do nosso mundo, mas com criaturas horrendas,
 - [WAI - Web Acessibility Initiative](https://www.w3.org/WAI/)
 - [WCAG 2](https://www.w3.org/WAI/WCAG21/quickref/) 
 - [Figma](https://www.figma.com/file/I3Q42CcVUziRN3iMfTrbfb/Stranger-Things?node-id=0%3A1) 
-- [Demo](https://micheleambrosio.github.io/semana-frontend-mundo-invertido/) 
+- [Demo](https://joaooowdev.github.io/MundoInvertido/) 
